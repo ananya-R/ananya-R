@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Software+Engineer; Distributed+Systems+%E2%80%A2+Event-Driven+Architectures;300M%2B+Requests%2FDay+at+Production+Scale;Building+at+the+Edge+of+AI+%2B+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Software+Engineer;Distributed+Systems+%E2%80%A2+Event-Driven+Architectures;300M%2B+Requests%2FDay+at+Production+Scale;Building+at+the+Edge+of+AI+%2B+Infrastructure" alt="Typing SVG" />
 </a>
 
 <br/>
