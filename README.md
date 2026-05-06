@@ -23,8 +23,6 @@ I'm a Senior Software Engineer with **8 years** designing and operating high-thr
 
 My focus is the unglamorous infrastructure that makes products possible: idempotent APIs, event-driven pipelines, edge compute, and the observability that keeps them honest at 3 a.m. I write primarily in **Python** and **TypeScript**, deploy with **Terraform**, and increasingly spend my time at the intersection of **LLM systems and production infrastructure** — RAG pipelines, agentic workflows, and the cost/latency engineering that separates demos from products.
 
-I'm drawn to **fintech**, **media tech**, and **AI/automation** — domains where correctness, scale, and creativity all have to coexist.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -200,7 +198,3 @@ I'm drawn to **fintech**, **media tech**, and **AI/automation** — domains wher
 </div>
 
 <br/>
-
-<div align="center">
-  <i>Open to senior and staff-level backend roles in distributed systems, fintech infrastructure, and AI platforms.</i>
-</div>
