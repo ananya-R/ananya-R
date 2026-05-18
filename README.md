@@ -121,10 +121,10 @@ My focus is the unglamorous infrastructure that makes products possible: idempot
 <a href="mailto:royananya1996@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="">
+<a>
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="">
+<a>
   <img src="https://img.shields.io/badge/Writing-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
 </a>
 
