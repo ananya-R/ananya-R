@@ -115,16 +115,16 @@ My focus is the unglamorous infrastructure that makes products possible: idempot
 
 <div align="left">
 
-<a href="https://linkedin.com/in/your-handle">
+<a href="https://www.linkedin.com/in/ananya-roy-836155119/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@domain.com">
+<a href="mailto:royananya1996@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://your-portfolio.dev">
+<a href="">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://your-blog.dev">
+<a href="">
   <img src="https://img.shields.io/badge/Writing-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
 </a>
 
